@@ -1,0 +1,18 @@
+.box{
+    border: black solid 2px;
+    height: 1050px;
+    width:700px;
+    padding: 5px;
+    margin-left: 30%;
+}
+
+#star{
+    color: red;
+}
+
+.heading{
+    background: linear-gradient(180deg,red,green);
+    color:blue;
+    text-align: center;
+}
+
